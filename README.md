@@ -1,3 +1,6 @@
+#Status of 影视森林 life1.巴金先生
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bd4dd03b-d794-40ee-8b67-a9b185a5dcdf/deploy-status)](https://app.netlify.com/sites/life1/deploys)
+
 # Password protection for static pages
 
 Very simple password protection to static pages or whole websites with no server configuration required: you ca use Dropbox, Amazon S3 or any generic hosting service to host a private, password protected site.
